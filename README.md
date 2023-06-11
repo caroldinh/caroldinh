@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi :)
+Hey there! I am an undergrad from the D.C. area making art projects & digital playthings with code :)
