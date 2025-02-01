@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 Hey there! I am a creative technologist from the D.C. area interested in archives, storytelling, and the digital humanities.   
 
-These days I mostly read and write in my spare time. But if I'm coding outside of work hours, I'll be working on a [data visualization about the 1818 and 1831 versions of *Frankenstein*](https://github.com/caroldinh/frankenstein-diff).
+These days I mostly read and write in my spare time. But if I'm coding outside of work hours, I'll be working on a [data visualization about the 1818 and 1831 versions of *Frankenstein*](https://github.com/caroldinh/frankenstein-diff) while I hype myself up for Guillermo del Toro's 2025 adaptation.  
 
 If you want to say hi, you can reach me at `ctdinh443[at]gmail[dot]com`!
