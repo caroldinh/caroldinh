@@ -17,4 +17,4 @@ Hey there! I am a creative technologist from the D.C. area interested in archive
 
 These days I mostly read and write in my spare time. But if I'm coding outside of work hours, I'll be working on a [data visualization about the 1818 and 1831 versions of *Frankenstein*](https://github.com/caroldinh/frankenstein-diff) while I hype myself up for Guillermo del Toro's upcoming film.  
 
-If you want to say hi, you can reach me at `ctdinh443[at]gmail[dot]com`!
+If you want to say hi, you can reach me at `caroldinh[at]tuta[dot]io`!
